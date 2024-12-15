@@ -1,5 +1,10 @@
 # Logger: A Personalized Calorie Tracker
-
+![](assets/demo.png)
+![](assets/logdemo.png)
+![](assets/recordsdemo.png)
+![](assets/mealsdemo.png)
+![](assets/profiledemo.png)
+![](assets/scheduledemo.png)
 ## Project Summary:
 Logger is an innovative app designed to track the fitness goals of individuals based on their schedule, behaviors, workout data, and soft biometric traits. Unlike traditional fitness trackers, Logger goes beyond tracking only exercise to include passive calorie burn from activities such as sleep, walking to work, or even fidgeting while stationary. The app is tailored to the average working American, offering a simple and intuitive interface for seamless integration into daily routines. By using machine learning and real-time data analysis, Logger provides a personalized calorie tracker that adapts to each user’s lifestyle.
 
